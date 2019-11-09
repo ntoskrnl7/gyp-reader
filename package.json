@@ -11,7 +11,9 @@
   "scripts": {
     "test": "tap test/*.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "compare-versions": "^3.5.1"
+  },
   "devDependencies": {
     "tap": ""
   }
